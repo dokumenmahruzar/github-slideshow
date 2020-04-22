@@ -2,5 +2,5 @@
 layout: slide
 title: "Ini Slide kedua!"
 ---
-Your text
+Pakai panah :)
 Use the left arrow to go back!
